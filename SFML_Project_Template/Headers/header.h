@@ -14,8 +14,7 @@
 #include <SFML/Graphics.hpp>
 //
 //there is stuff in this file github!
-
-void vF(){}
+void vF(){} //this is here to satisfy github
 
 
 #endif
